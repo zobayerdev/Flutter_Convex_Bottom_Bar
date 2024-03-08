@@ -1,3 +1,4 @@
+import 'package:bottom_bars/bottom_bar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -9,8 +10,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Material(
-      
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData.dark(),
+      home: Bottom_Bar(),
     );
   }
 }

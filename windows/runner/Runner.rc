@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "convex_bottom_bar" "\0"
+            VALUE "FileDescription", "bottom_bars" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "convex_bottom_bar" "\0"
+            VALUE "InternalName", "bottom_bars" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "convex_bottom_bar.exe" "\0"
-            VALUE "ProductName", "convex_bottom_bar" "\0"
+            VALUE "OriginalFilename", "bottom_bars.exe" "\0"
+            VALUE "ProductName", "bottom_bars" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

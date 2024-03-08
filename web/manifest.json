@@ -1,6 +1,6 @@
 {
-    "name": "convex_bottom_bar",
-    "short_name": "convex_bottom_bar",
+    "name": "bottom_bars",
+    "short_name": "bottom_bars",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

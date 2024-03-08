@@ -1,4 +1,4 @@
-# convex_bottom_bar
+# bottom_bars
 
 A new Flutter project.
 
